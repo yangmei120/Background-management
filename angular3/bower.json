@@ -1,0 +1,26 @@
+{
+  "name": "angular",
+  "authors": [
+    "ckxdezh <ckxdeyx@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "^0.3.1",
+    "oclazyload": "ocLazyLoad#^1.0.9",
+    "bootstrap": "^3.3.6",
+    "fullpage.js": "fullpage#^2.8.1",
+    "jquery": "^3.0.0"
+  }
+}
